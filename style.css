@@ -1,0 +1,30 @@
+.redtext {
+    color: red
+}
+.bluetext {
+    color: blue
+}
+.greentext {
+    color: green
+}
+.orangetext {
+    color: orange
+}
+.bigtext {
+    font-size: 30px
+}
+.smalltext {
+    font-size: 10px
+}
+.centeredtext {
+    text-align: center
+}
+.boldtext {
+    font-weight: bold
+}
+.cursivetext {
+    font-family: cursive
+}
+.styledFont {
+    color: green
+}
